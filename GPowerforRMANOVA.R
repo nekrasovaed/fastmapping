@@ -19,7 +19,7 @@ library(WebPower)
 
 ## Post hoc power analysis
 
-wp.rmanova(n = 24, ng = 1, nm = 4, f = 7.101, alpha = 0.04, power = NULL, type = 1)
+wp.rmanova(n = 20, ng = 1, nm = 4, f = 7.101, alpha = 0.04, power = NULL, type = 1)
 
 #Repeated-measures ANOVA analysis
 
